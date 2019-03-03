@@ -2,7 +2,7 @@
 Android app to detect songs through microphone &amp; add it to the user's Spotify playlist.
 
 
-# Current status:
+### Current status:
 
 **The Spotify end of the work is done.** The User can provide authentication to the app to read and write to playlists.
 The user selects the playlist, and for now a hardcoded song name string (Eminem- Lose Yourself) is looked up on Spotify and gets added to the playlist selected by the user.
